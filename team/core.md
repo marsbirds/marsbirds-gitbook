@@ -1,4 +1,4 @@
-# Core
+# Core Team
 
 * **Founder - CEO - @Cybird**&#x20;
 

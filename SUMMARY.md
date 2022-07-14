@@ -4,16 +4,16 @@
 
 ## Fundamentals
 
-* [Project](fundamentals/project/README.md)
+* [Project](fundamentals/projects.md)
   * [Summary](fundamentals/project/summary.md)
-* [Core Team](fundamentals/core-team.md)
-* [Community Leaders](fundamentals/community-leaders.md)
+* [Core Team](team/core.md)
+* [Community Leaders](team/community-leaders.md)
 
 ## FAQS
 
-* [Mints](faqs/mints.md)
+* [Mints](faqs/marsbirds.md)
 * [Claims](faqs/claims/README.md)
-  * [$MARS](faqs/claims/usdmars.md)
+  * [$MARS](faqs/claims/mars.md)
   * [ADA](faqs/claims/ada.md)
 * [Game](faqs/game.md)
 
@@ -26,4 +26,4 @@
 
 ## ROADMAP
 
-* [Where we go](roadmap/where-we-go.md)
+* [Upcoming Plans](roadmap/upcoming-plans.md)

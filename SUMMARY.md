@@ -5,7 +5,9 @@
 ## Fundamentals
 
 * [Project](fundamentals/projects.md)
-  * [Summary](fundamentals/project/summary.md)
+  * [Whitepaper](fundamentals/project/whitepaper.md)
+  * [Utility](fundamentals/project/utility.md)
+* [Treasury](fundamentals/treasury.md)
 * [Core Team](team/core.md)
 * [Community Leaders](team/community-leaders.md)
 
@@ -26,4 +28,4 @@
 
 ## ROADMAP
 
-* [Upcoming Plans](roadmap/upcoming-plans.md)
+* [Upcoming Plans](roadmap/our-roadmap.md)

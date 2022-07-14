@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [MarsBirds](README.md)
 
 ## Guides
 
@@ -15,15 +15,21 @@
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)
 
-## Use Cases
+## FAQS
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [MarsBirds](faqs/marsbirds.md)
+* [Claims](faqs/claims/README.md)
+  * [MARS](faqs/claims/mars.md)
+  * [ADA](faqs/claims/ada.md)
+* [Game](faqs/game.md)
 
-## Extras
+## TEAM
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Core](team/core.md)
+* [Community Leaders](team/community-leaders.md)
+
+## Infographics
+
+## ROADMAP
+
+* [Our Roadmap](roadmap/our-roadmap.md)

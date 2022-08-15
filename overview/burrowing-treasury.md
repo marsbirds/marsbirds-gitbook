@@ -1,4 +1,4 @@
-# Treasury
+# 🏦 Burrowing Treasury
 
 ## HOOT HOOT
 

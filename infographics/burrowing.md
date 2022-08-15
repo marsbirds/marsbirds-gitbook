@@ -1,4 +1,4 @@
-# Burrowing
+# 🕳 Burrowing
 
 To make things easier to understand for new HOOTERS, we created infographics to explain Burrowing! \
 \

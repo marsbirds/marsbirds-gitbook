@@ -1,4 +1,4 @@
-# On-Chain NFTs
+# ⛓ On-Chain NFTs
 
 To make things easier to understand for new HOOTERS, we created infographics to explain On-Chain NFTs!
 

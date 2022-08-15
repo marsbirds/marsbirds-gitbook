@@ -1,4 +1,4 @@
-# $MARS Token
+# 🪙 $MARS Token
 
 To make things easier to understand for new HOOTERS, we created infographics to explain the $MARS Token!&#x20;
 

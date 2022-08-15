@@ -1,4 +1,4 @@
-# Utility
+# ℹ Utility
 
 **What utility does owning a MarsBird have?** \
 \- Receive $MARS every epoch for Burrowing \

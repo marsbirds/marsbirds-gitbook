@@ -1,4 +1,4 @@
-# Upcoming Plans
+# 🗺 MarsBirds Journey
 
 * DAO Vote&#x20;
 * Stake Pool

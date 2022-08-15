@@ -1,4 +1,4 @@
-# Game
+# 🎮 MarsBirds Game
 
 To make things easier to understand for new HOOTERS, we created infographics to explain  the MarsBirds Game!
 

@@ -1,4 +1,4 @@
-# Core Team
+# 🧑🚀 Core Crew
 
 * **Founder - CEO - @Cybird**&#x20;
 

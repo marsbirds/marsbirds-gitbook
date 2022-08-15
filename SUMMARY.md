@@ -2,36 +2,38 @@
 
 * [🦉 MarsBirds](README.md)
 
-## Overview
+## Mission Overview
 
-* [🚀 Project MarsBirds](overview/project-marsbirds/README.md)
-  * [ℹ Whitepaper](overview/project-marsbirds/whitepaper.md)
-  * [ℹ Utility](overview/project-marsbirds/utility.md)
-* [🏦 Burrowing Treasury](overview/burrowing-treasury.md)
-* [🧑🚀 Core Crew](overview/core-crew.md)
-* [📚 Lore](overview/lore.md)
-* [🦉 Holder Roles](overview/holder-roles/README.md)
-  * [🔑 Holder Discord Channels](overview/holder-roles/holder-discord-channels.md)
-* [🏅 Community Leaders](overview/community-leaders.md)
-* [✅ Links/ Policy IDs](overview/links-policy-ids.md)
+* [🚀 Project MarsBirds](mission-overview/project-marsbirds/README.md)
+  * [ℹ Burrowing Paper](mission-overview/project-marsbirds/burrowing-paper.md)
+  * [ℹ Utility](mission-overview/project-marsbirds/utility.md)
+* [🧑🚀 Core Crew](mission-overview/core-crew.md)
+* [🏦 Burrowing Treasury](mission-overview/burrowing-treasury/README.md)
+  * [📈 Burrowing Treasury Updates](mission-overview/burrowing-treasury/burrowing-treasury-updates.md)
+* [📚 Lore](mission-overview/lore.md)
+* [🎨 Artwork](mission-overview/artwork.md)
+* [🦉 Holder Roles](mission-overview/holder-roles/README.md)
+  * [🔑 Holder Discord Channels](mission-overview/holder-roles/holder-discord-channels.md)
+* [🏅 Community Leaders](mission-overview/community-leaders.md)
+* [✅ Links/ Policy IDs](mission-overview/links-policy-ids.md)
 
 ## FAQS
 
 * [🪙 $MARS](faqs/usdmars/README.md)
   * [🧠 Whats $MARS?](faqs/usdmars/whats-usdmars.md)
-  * [♻ MARS/ADA Claiming](faqs/usdmars/mars-ada-claiming/README.md)
-    * [$MARS](faqs/usdmars/mars-ada-claiming/usdmars.md)
-    * [$ADA](faqs/usdmars/mars-ada-claiming/usdada.md)
-* [🎮 MarsBirds Game](faqs/marsbirds-game.md)
+  * [♻ MARS/ADA Claiming](faqs/claims/README.md)
+    * [$MARS](faqs/claims/mars.md)
+    * [$ADA](faqs/claims/ada.md)
+* [🎮 MarsBirds Game](faqs/game.md)
 
 ## Infographics
 
 * [🪙 $MARS Token](infographics/usdmars-token.md)
 * [🪙 $ADA Claiming](infographics/usdada-claiming.md)
 * [🕳 Burrowing](infographics/burrowing.md)
-* [🎮 MarsBirds Game](infographics/marsbirds-game.md)
+* [🎮 MarsBirds Game](infographics/game.md)
 * [⛓ On-Chain NFTs](infographics/on-chain-nfts.md)
 
 ## Upcoming missions
 
-* [🗺 MarsBirds Journey](upcoming-missions/marsbirds-journey.md)
+* [🗺 MarsBirds Journey](roadmap/our-roadmap.md)

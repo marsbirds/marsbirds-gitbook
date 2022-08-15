@@ -1,9 +1,5 @@
 # 🚀 Project MarsBirds
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
-
 ## More than just NFTs
 
 Diverse traits suitable for any Cardano NFT collector, utility focused project that believes in the future of Cardano technology, a collection of 8888 fully Cardano on-chain PFPs… we are MarsBirds

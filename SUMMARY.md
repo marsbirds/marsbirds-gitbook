@@ -5,7 +5,7 @@
 ## Mission Overview
 
 * [🚀 Project MarsBirds](mission-overview/project-marsbirds/README.md)
-  * [ℹ Burrowing Paper](mission-overview/project-marsbirds/burrowing-paper.md)
+  * [ℹ Burrowing Whitepaper](mission-overview/project-marsbirds/burrowing-whitepaper.md)
   * [ℹ Utility](mission-overview/project-marsbirds/utility.md)
 * [🧑🚀 Core Crew](mission-overview/core-crew.md)
 * [🏦 Burrowing Treasury](mission-overview/burrowing-treasury/README.md)

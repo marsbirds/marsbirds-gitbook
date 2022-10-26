@@ -8,7 +8,7 @@ coverY: 0
 
 # 🦉 MarsBirds
 
-To make your journey through Mars easy to navigate, here's a step-to-step tutorial on how to navigate MarsBirds GitBook!
+To make your journey through Mars easy, here's a step-to-step tutorial on how to navigate MarsBirds GitBook!
 
 
 
@@ -23,3 +23,7 @@ To make your journey through Mars easy to navigate, here's a step-to-step tutori
 * FAQ on important aspects - [Broken link](broken-reference "mention")
 * Infographics to help you learn visually - [Broken link](broken-reference "mention")
 * What's to come for MarsBirds - [Broken link](broken-reference "mention")
+
+
+
+Welcome to MarsBirds

@@ -10,7 +10,7 @@
 * [🧑🚀 Core Crew](mission-overview/core-crew.md)
 * [🏦 Burrowing Treasury](mission-overview/burrowing-treasury/README.md)
   * [📈 Burrowing Treasury Updates](mission-overview/burrowing-treasury/burrowing-treasury-updates.md)
-* [📚 MarsBirds Lore](mission-overview/marsbirds-lore.md)
+* [📚 MarsBirds Lore](mission-overview/lore.md)
 * [🎨 Artwork](mission-overview/artwork.md)
 * [🦉 Holder Roles](mission-overview/holder-roles/README.md)
   * [🔑 Holder Discord Channels](mission-overview/holder-roles/holder-discord-channels.md)

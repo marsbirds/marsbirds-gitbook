@@ -8,7 +8,7 @@ The $MARS that your MarsBird accumulates during Burrowing can be burned for $ADA
 
 The funds from the royalties wallet are sent to the Burrowing Treasury every EPOCH
 
-As it stands, the more secondary sales, the more valuable $MARS becomes!\
+As it stands, the more secondary sales, the more valuable $MARS becomes because of the royalties that gets sent to the Burrow each EPOCH\
 ****\
 **Burrowing Treasury spreadsheet (Logs)**\
 ****[https://docs.google.com/spreadsheets/d/11NyQndm2klavjFCGu87UrKdxq6\_5ek2Cbn2EOXwcjPk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11NyQndm2klavjFCGu87UrKdxq6\_5ek2Cbn2EOXwcjPk/edit?usp=sharing)&#x20;

@@ -15,7 +15,7 @@ To make your journey through Mars easy, here's a step-to-step tutorial on how to
 * Overview of our mission to MARS - [project-marsbirds](mission-overview/project-marsbirds/ "mention")
 * Core Crew Members - [core-crew.md](mission-overview/core-crew.md "mention")
 * What's the Burrowing Treasury - [burrowing-treasury](mission-overview/burrowing-treasury/ "mention")
-* Where it all began - [lore.md](mission-overview/lore.md "mention")
+* Where it all began - [marsbirds-lore.md](mission-overview/marsbirds-lore.md "mention")
 * Artwork IP Rights - [artwork.md](mission-overview/artwork.md "mention")
 * Holder benefits - [holder-roles](mission-overview/holder-roles/ "mention")
 * HOO are the Community Leaders - [community-leaders.md](mission-overview/community-leaders.md "mention")

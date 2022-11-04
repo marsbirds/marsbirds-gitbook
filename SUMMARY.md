@@ -16,15 +16,13 @@
   * [🔑 Holder Discord Channels](mission-overview/holder-roles/holder-discord-channels.md)
 * [🏅 Community Leaders](mission-overview/community-leaders.md)
 * [✅ Links/ Policy IDs](mission-overview/links-policy-ids.md)
-* [Video/Music Content](mission-overview/video-music-content.md)
+* [📹 Video/Music Content](mission-overview/video-music-content.md)
 
 ## FAQS
 
 * [🪙 $MARS](faqs/usdmars/README.md)
   * [🧠 Whats $MARS?](faqs/usdmars/whats-usdmars.md)
-  * [♻ MARS/ADA Claiming](faqs/claims/README.md)
-    * [$MARS](faqs/claims/mars.md)
-    * [$ADA](faqs/claims/ada.md)
+* [♻ $MARS/ $ADA Claiming](faqs/usdmars-usdada-claiming.md)
 * [🎮 MarsBirds Game](faqs/game.md)
 
 ## Infographics

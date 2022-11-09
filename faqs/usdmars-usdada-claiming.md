@@ -1,6 +1,6 @@
 # ♻ $MARS/ $ADA Claiming
 
-Claiming $MARS/ $ADA
+**Claiming $MARS/ $ADA**
 
 
 
@@ -30,5 +30,5 @@ Claiming $MARS/ $ADA
 
 
 
-Please open a ticket in Discord if you have any problems claiming&#x20;
+**Please open a ticket in Discord if you have any problems claiming**&#x20;
 

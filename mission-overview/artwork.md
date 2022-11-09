@@ -1,12 +1,12 @@
 # 🎨 Artwork
 
-MarsBirds was birthed from the mind of our 2D Pixel Artist Martian who designed each trait himself
+**MarsBirds artwork was birthed from the mind of our 2D Pixel Artist Martian who designed each trait himself**
 
 As a holder of a MarsBirds NFT, you have full Intellectual Property Rights (IP Rights) over the artwork, meaning you can use it for commercial purposes as your like
 
 
 
-Example:
+**Example:**
 
 \-Print it on T-shirts
 
@@ -20,7 +20,7 @@ Example:
 
 The uses are endless, so go crazy and put your MarsBird everywhere!
 
-Creation video - [https://youtu.be/9muSoB7lHq4](https://youtu.be/9muSoB7lHq4)
+**Artwork Creation Video** - [https://youtu.be/9muSoB7lHq4](https://youtu.be/9muSoB7lHq4)
 
 
 

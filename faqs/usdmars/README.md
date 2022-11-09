@@ -1,3 +1,3 @@
 # 🪙 $MARS
 
-$MARS is the Governance token for MarsBirds
+**MARS is the Governance token for MarsBirds**

@@ -4,11 +4,11 @@
 
 The Burrowing Treasury is what creates value for $MARS. 5% Of the minting revenue and 7.5% of the royalties from secondary sales gets sent to the Burrowing Treasury
 
-The $MARS that your MarsBird accumulates during Burrowing can be burned for $ADA and when it's burned, it's removed from the total supply
+The MARS that your MarsBird accumulates during Burrowing can be burned for $ADA and when it's burned, it's removed from the total supply
 
 The funds from the royalties wallet are sent to the Burrowing Treasury every EPOCH
 
-As it stands, the more secondary sales, the more valuable $MARS becomes because of the royalties that gets sent to the Burrow each EPOCH\
+As it stands, the more secondary sales, the more valuable MARS becomes because of the royalties that get sent to the Burrow each EPOCH\
 ****\
 **Burrowing Treasury spreadsheet (Logs)**\
 ****[https://docs.google.com/spreadsheets/d/11NyQndm2klavjFCGu87UrKdxq6\_5ek2Cbn2EOXwcjPk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11NyQndm2klavjFCGu87UrKdxq6\_5ek2Cbn2EOXwcjPk/edit?usp=sharing)&#x20;

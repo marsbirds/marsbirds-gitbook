@@ -10,11 +10,11 @@ Earth became uninhabitable because of the pollution, harsh climate and lack of w
 
 Owls predicted the future of Earth correctly which allowed them to plan ahead. Everyone else ignored the signs, but Owls began to burrow deep beneath the Earth to avoid the harsh conditions above which allowed them to build their underground space station
 
-Another problem Owls predicted accurately was the currency on Earth becoming valueless. The solution was simple, a token distributed equally amongst birds in the burrow called $MARS
+Another problem Owls predicted accurately was the currency on Earth becoming valueless. The solution was simple, a token distributed equally amongst birds in the burrow called MARS
 
-With the solutions to Earths problems solved on paper, all that was left was to build them
+With the solutions to Earth's problems solved on paper, all that was left was to build them
 
-It took them 339 days to build their space station and currency $MARS. Once everything was complete, all they had to do was gather the Parliament for liftoff!
+It took them 339 days to build their space station and currency MARS. Once everything was complete, all they had to do was gather the Parliament for liftoff!
 
 With the Parliament secured in their spaceship, the Captain presses the button that's their ticket to MARS… LIFTOFF!
 

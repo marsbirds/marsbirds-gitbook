@@ -17,14 +17,14 @@
   * [🔑 Holder Discord Channels](mission-overview/discord-holder-roles/holder-discord-channels.md)
 * [✅ Links/ Policy IDs](mission-overview/links-policy-ids.md)
 * [📹 Video/Music Content](mission-overview/video-music-content.md)
+* [3D Mint info](mission-overview/3d-mint-info/README.md)
+  * [Normal Keycards](mission-overview/3d-mint-info/normal-keycards.md)
+* [3D MarsBird Utility](mission-overview/3d-marsbird-utility.md)
+* [Epic Keycards](mission-overview/epic-keycards.md)
 
 ***
 
-* [MINT INFO](mint-info/README.md)
-  * [3D MarsBird Utility](mint-info/3d-marsbird-utility.md)
-  * [3D Mint info](mint-info/3d-mint-info.md)
-  * [Epic Keycards](mint-info/epic-keycards.md)
-  * [Normal Keycards](mint-info/normal-keycards.md)
+* [MINT INFO](mint-info.md)
 
 ## FAQS
 

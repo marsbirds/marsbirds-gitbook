@@ -1,4 +1,4 @@
-# 3D Mint info
+# ℹ 3D Mint info
 
 \-Price - 88 ADA
 

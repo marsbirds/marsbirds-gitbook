@@ -23,7 +23,8 @@
 * [🦉 3D MarsBird Utility](3d-mint/3d-marsbird-utility.md)
 * [ℹ 3D Mint info](3d-mint/3d-mint-info.md)
 * [🗝 Epic Keycards](3d-mint/epic-keycards.md)
-* [🗝 Normal Keycards](3d-mint/normal-keycards.md)
+* [🗝 Golden Keycards](3d-mint/golden-keycards.md)
+* [🗝 Copper Keycards](3d-mint/copper-keycards.md)
 
 ## FAQS
 
@@ -34,12 +35,12 @@
 
 ## Infographics
 
+* [ℹ 3D Info](infographics/3d-info.md)
+* [💳 Keycards](infographics/keycards.md)
+* [👨🏭 3D Utility](infographics/3d-utility.md)
+* [🗓 3D Mint Timeline](infographics/3d-mint-timeline.md)
 * [🪙 $MARS Token](infographics/usdmars-token.md)
 * [🪙 $ADA Claiming](infographics/usdada-claiming.md)
 * [🕳 Burrowing](infographics/burrowing.md)
 * [🎮 MarsBirds Game](infographics/game.md)
 * [⛓ On-Chain NFTs](infographics/on-chain-nfts.md)
-
-## Upcoming missions
-
-* [🗺 MarsBirds Journey](roadmap/our-roadmap.md)

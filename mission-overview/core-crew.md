@@ -1,21 +1,38 @@
 # 🧑🚀 Core Crew
 
-* **Founder -** [https://twitter.com/Dispositionedar](https://twitter.com/Dispositionedar)
+* **Co-Founder - Product**\
+  &#x20;    **• Cybird (Cybird#5228 -** [**https://twitter.com/Dispositionedar**](https://twitter.com/Dispositionedar)**)**\
+  \-Hi everyone, I'm Cybird, the co-founder of MarsBirds. I have been involved in the world of online gaming for many years, starting with MMORPGs like Runescape and World of Warcraft when I was just 13 years old. When we started MarsBirds, we wanted to create something accessible to everyone and that provided a fun and engaging gaming experience. We are excited to be building our game on the Cardano blockchain, and we are grateful for the support of our community. Thank you for joining us on this journey, and we can't wait to see what the future holds for MarsBirds.\
 
-Hi! I’m Cybird the founder of MarsBirds When I joined the NFT community last year I knew I wanted to create a project involving pixel NFTs with amazing tech backing it up and that’s how MarsBirds began I and DEV are heavily focused on technological improvements, so our project will not just compromise quality pixel art but also useful tools being built in-house that we can use and out-source to help other projects MarsBird proves that quality art and tech can live together in unison **Welcome to MarsBirds**&#x20;
+* **Co-Founder - Engineering**\
+  &#x20;    **• MarsRover (Marsrover | MarsBirds Team#5442 -** [**https://twitter.com/javiergradiche**](https://twitter.com/javiergradiche)**)**\
+  \-Hello, my friends! I'm MarsRover, the tech guy behind the scenes. I've been building software for a long time, always obsessed with scalability and usability. I fell in love with Cardano 2 years ago, but I started coding CNFT projects the last year and luckily now it’s my full-time job enjoy the good vibes of the CNFT community and the idea of building something bigger and stronger every day. Always open to learning and help!\
 
-* **Founder - DEV -** [https://twitter.com/javiergradiche](https://twitter.com/javiergradiche)
+* **Artists** \
+  &#x20;    **• Pandorian (Pandorian#6495)**\
+  **-**Hey there! As the mastermind behind the stunning pixel art and animations in the MarsBirds pixel universe, Pandorian brings his passion for creativity and distinctive style to every project he takes on. With a deep knowledge of the latest technologies and a keen eye for detail, he is dedicated to crafting unique and mesmerizing experiences that captivate the imagination. From his iconic owl designs to the vibrant landscapes of Mars, Pandorian's work is not to be missed.\
+  \
+  &#x20;   **• Ritz (Ritz #4294)**\
+  \-Hooot! As the technical coordinator for MarsBirds, I'm responsible for ensuring that every 3D design is hoot-and-ready for production. With a background in both graphic design and mechanical engineering, I bring a unique set of feathers to the table. Whether it's crafting 3D printable models or fine-tuning the details on a design, I'm always up for the challenge. Let's soar to new heights together with MarsBirds.\
+  \
+  &#x20;    **• Veer**\
+  **-**As the 3D modeling specialist at MarsBirds, I specialize in crafting high-quality, game-ready models and texturing them with realistic PBR textures. My attention to detail and passion for my craft shines through in every asset I create for the MarsBirds game. From the intricate feathers of our avian companions to the rugged terrain of the Martian landscape, I strive to bring the world of MarsBirds to life. With my expertise, our players will be able to fully immerse themselves in the unique and exciting world of MarsBirds.\
 
-Hello, my friends! I'm Mars rover, the tech guy behind the scenes. I've been building software for a long time, always obsessed with scalability and usability. I fell in love with Cardano 2 years ago, but I started coding CNFT projects the last year and luckily now it’s my full-time job enjoy the good vibes of the CNFT community and the idea of building something bigger and stronger every day. Always open to learning and help! Just ping me
+*   #### Unreal Engine Developers
 
-* **Artist**&#x20;
+    &#x20;    **• Roberto Ferreira (Roberto Ferreira#7265)**\
+    \-Hi there, I'm Roberto and I'm one of the core Unreal developers at MarsBirds. I specialize in bringing our game to life with top-notch animations and mechanics. I have a passion for all things gaming, and I'm always looking to take on new challenges. When I'm not coding away, you can find me hooting about the latest developments in the world of gaming. Thanks for stopping by!\
+    \
+    &#x20;    **• Pukachi (Pukachi#9646)**\
+    **-**Hey! **** As the MarsBirds' resident backend specialist, I am responsible for creating the infrastructure that powers our Unreal game. With my experience in multiplayer development and expertise in web3 games, I am dedicated to ensuring that our game runs smoothly and seamlessly connects to the blockchain for wallet signing. When I'm not busy tinkering with AWS and APIs, you can find me hooting it up with the rest of the Core Crew. Thanks for checking out MarsBirds!\
+    \
+    &#x20;    **• Flave (flave#8865)**\
+    **-**Hi! I'm Flave, a developer with a passion for game development and programming. As part of the MarsBirds Core Crew, I focus on multiplayer, C++ coding, game optimizations, AI implementation, and bug fixes to make sure our game runs smoothly and is a hoot to play. When I'm not working on MarsBirds, you can find me flying around the Unreal Engine, coding up a storm and bringing my avian expertise to the table.\
 
-Hey, I’m Martian, the one who designed all the MarsBirds, you all love! have been designing pixel art for many years, but this is my first Cardano NFT project. When Cybird told me about MarsBirds, I had to do it and I’m so glad I did it! You guys have shown me so much love and that NFTs are the future of digital art This is how I begin my journey with Cardano and I’m excited to go on this journey with you all!&#x20;
+* **Creative Strategist**\
+  ****     **• Jacob Little (Jacob Little | MarsBirds Team#5457)**\
+  \-I’m the Creative Strategist for MarsBirds and I’m a pro networker with excellent knowledge of the CNFT market. I have a passion for marketing and I will make sure that MarsBirds is known far and wide. If there’s anyone that can take us to MARS with marketing, it’s me! Feel free to open a ticket and @ me with any suggestions. I'm available from 10 AM UTC-8 PM UTC.\
 
-* **Creative Strategist -** [**https://twitter.com/JacobLittle\_ADA**](https://twitter.com/JacobLittle\_ADA)****
-
-I’m the Creative Strategist for MarsBirds and I’m a pro networker with excellent knowledge of the CNFT market. I have a passion for marketing and I will make sure that MarsBirds is known far and wide. If there’s anyone that can take us to MARS with marketing, it’s me! Feel free to DM me with any suggestions regarding marketing. You can DM me from 10 AM UTC-8 PM UTC
-
-* **Blockchain DEV**&#x20;
-
-IT Engineer working with enterprise content management solutions for 18 years. Huge Blockchain fan! I got drawn into Cardano in 2019 because the base principles and the community turned me into an enthusiast that loves to help, build and educate others on Blockchain Technology
+* **Blockchain Dev - SecOps - Stakepool Operator**\
+  ****     **• Migs (Migs#5739)**\
+  \-IT Engineer working with enterprise content management solutions for 18 years. Huge Blockchain fan! I got drawn into Cardano in 2019 because the base principles and the community turned me into an enthusiast that loves to help, build and educate others on Blockchain Technology

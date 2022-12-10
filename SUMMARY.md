@@ -35,9 +35,9 @@
 
 ## Infographics
 
-* [ℹ 3D Info](infographics/3d-info.md)
-* [💳 Keycards](infographics/keycards.md)
-* [👨🏭 3D Utility](infographics/3d-utility.md)
+* [🦉 3D MarsBird Utility](infographics/3d-marsbird-utility.md)
+* [ℹ 3D Mint Info](infographics/3d-mint-info.md)
+* [🗝 Keycards](infographics/keycards.md)
 * [🗓 3D Mint Timeline](infographics/3d-mint-timeline.md)
 * [🪙 $MARS Token](infographics/usdmars-token.md)
 * [🪙 $ADA Claiming](infographics/usdada-claiming.md)

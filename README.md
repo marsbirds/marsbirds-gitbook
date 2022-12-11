@@ -2,7 +2,7 @@
 description: >-
   Welcome to MarsBirds GitBook, your guide to exploring the exciting world of
   Mars and its feathered inhabitants.
-cover: .gitbook/assets/banner (1).jpg
+cover: .gitbook/assets/1900x400_1.gif
 coverY: 0
 ---
 

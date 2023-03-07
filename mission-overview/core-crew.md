@@ -32,10 +32,6 @@
     &#x20;    **• Flave (flave#8865)**\
     **-**Hi! I'm Flave, a developer with a passion for game development and programming. As part of the MarsBirds Core Crew, I focus on multiplayer, C++ coding, game optimizations, AI implementation, and bug fixes to make sure our game runs smoothly and is a hoot to play. When I'm not working on MarsBirds, you can find me flying around the Unreal Engine, coding up a storm and bringing my avian expertise to the table.\
 
-* **Creative Strategist**\
-  ****     **• Jacob Little (Jacob Little | MarsBirds Team#5457)**\
-  \-I’m the Creative Strategist for MarsBirds and I’m a pro networker with excellent knowledge of the CNFT market. I have a passion for marketing and I will make sure that MarsBirds is known far and wide. If there’s anyone that can take us to MARS with marketing, it’s me! Feel free to open a ticket and @ me with any suggestions. I'm available from 10 AM UTC-8 PM UTC.\
-
 * **Blockchain Dev - SecOps - Stakepool Operator**\
   ****     **• Migs (Migs#5739)**\
   \-IT Engineer working with enterprise content management solutions for 18 years. Huge Blockchain fan! I got drawn into Cardano in 2019 because the base principles and the community turned me into an enthusiast that loves to help, build and educate others on Blockchain Technology

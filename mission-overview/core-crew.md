@@ -19,7 +19,7 @@
   **-**As the 3D modeling specialist at MarsBirds, I specialize in crafting high-quality, game-ready models and texturing them with realistic PBR textures. My attention to detail and passion for my craft shines through in every asset I create for the MarsBirds game. From the intricate feathers of our avian companions to the rugged terrain of the Martian landscape, I strive to bring the world of MarsBirds to life. With my expertise, our players will be able to fully immerse themselves in the unique and exciting world of MarsBirds.\
   \
   &#x20;    **• Mayank**\
-  ****As an animation specialist for MarsBirds, I bring my years of experience to the table to create custom animations for our in-game characters and enemies. Whether it's a simple idle animation or a complex attack sequence, I am dedicated to bringing our MarsBirds world to life. With my skills in Maya and Blender, I strive to deliver high-quality animations that enhance the gameplay experience.\
+  As an animation specialist for MarsBirds, I bring my years of experience to the table to create custom animations for our in-game characters and enemies. Whether it's a simple idle animation or a complex attack sequence, I am dedicated to bringing our MarsBirds world to life. With my skills in Maya and Blender, I strive to deliver high-quality animations that enhance the gameplay experience.\
 
 *   #### Unreal Engine Developers
 
@@ -27,13 +27,13 @@
     \-Hi there, I'm Roberto and I'm one of the core Unreal developers at MarsBirds. I specialize in bringing our game to life with top-notch animations and mechanics. I have a passion for all things gaming, and I'm always looking to take on new challenges. When I'm not coding away, you can find me hooting about the latest developments in the world of gaming. Thanks for stopping by!\
     \
     &#x20;    **• Pukachi (Pukachi#9646)**\
-    **-**Hey! **** As the MarsBirds' resident backend specialist, I am responsible for creating the infrastructure that powers our Unreal game. With my experience in multiplayer development and expertise in web3 games, I am dedicated to ensuring that our game runs smoothly and seamlessly connects to the blockchain for wallet signing. When I'm not busy tinkering with AWS and APIs, you can find me hooting it up with the rest of the Core Crew. Thanks for checking out MarsBirds!\
+    **-**Hey! As the MarsBirds' resident backend specialist, I am responsible for creating the infrastructure that powers our Unreal game. With my experience in multiplayer development and expertise in web3 games, I am dedicated to ensuring that our game runs smoothly and seamlessly connects to the blockchain for wallet signing. When I'm not busy tinkering with AWS and APIs, you can find me hooting it up with the rest of the Core Crew. Thanks for checking out MarsBirds!\
     \
     &#x20;    **• Flave (flave#8865)**\
     **-**Hi! I'm Flave, a developer with a passion for game development and programming. As part of the MarsBirds Core Crew, I focus on multiplayer, C++ coding, game optimizations, AI implementation, and bug fixes to make sure our game runs smoothly and is a hoot to play. When I'm not working on MarsBirds, you can find me flying around the Unreal Engine, coding up a storm and bringing my avian expertise to the table.\
 
 * **Blockchain Dev - SecOps - Stakepool Operator**\
-  ****     **• Migs (Migs#5739)**\
+  &#x20;    **• Migs (Migs#5739)**\
   \-IT Engineer working with enterprise content management solutions for 18 years. Huge Blockchain fan! I got drawn into Cardano in 2019 because the base principles and the community turned me into an enthusiast that loves to help, build and educate others on Blockchain Technology
 
 As a member of the MarsBirds community, you are a vital part of our journey to create a unique and engaging gaming experience on the Cardano blockchain. In addition to the Core Crew, there are many [community leaders](community-leaders.md) who are dedicated to spreading the word about MarsBirds and building a strong, supportive community. On the next page, you can find their Discord IDs. These leaders are involved in a range of activities, from organizing events and contests to providing feedback and suggestions for the project. They are an integral part of our community, and we are grateful for their support. Reach out to them in the chat any time to learn more about their involvement and why they are excited about MarsBirds. Thank you for being a part of our flock, and let's soar to new heights together!

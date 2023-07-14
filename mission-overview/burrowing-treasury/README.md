@@ -9,9 +9,9 @@ When the owners of MarsBirds claim their $MARS, that is new $MARS that is minted
 In addition to the minting revenue and secondary sales, 100% of the mint sale of Copper keycards and 10% of the 3D sale will also be sent to the Burrowing Treasury. This ensures that the project remains sustainable and that the value of $MARS continues to grow.
 
 You can view the Burrowing Treasury spreadsheet and pool addresses below to see the distribution of funds and track the growth of the project.\
-****\
+\
 **• Burrowing Treasury spreadsheet (Logs)**\
-****[https://docs.google.com/spreadsheets/d/11NyQndm2klavjFCGu87UrKdxq6\_5ek2Cbn2EOXwcjPk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11NyQndm2klavjFCGu87UrKdxq6\_5ek2Cbn2EOXwcjPk/edit?usp=sharing)&#x20;
+[https://docs.google.com/spreadsheets/d/11NyQndm2klavjFCGu87UrKdxq6\_5ek2Cbn2EOXwcjPk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11NyQndm2klavjFCGu87UrKdxq6\_5ek2Cbn2EOXwcjPk/edit?usp=sharing)&#x20;
 
 **• Burrowing Treasury Pool.pm**\
 [https://pool.pm/addr1q9vs60wlglc0jmc0pth6s8vss3dxz2a0v95j66ezulqzsfwysddw57ftgaapekwjrk3eluku46eljehgp7lvytvk707sx6ufcj](https://pool.pm/addr1q9vs60wlglc0jmc0pth6s8vss3dxz2a0v95j66ezulqzsfwysddw57ftgaapekwjrk3eluku46eljehgp7lvytvk707sx6ufcj)&#x20;
